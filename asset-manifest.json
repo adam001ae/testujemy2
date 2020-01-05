@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/adam001ae/testujemy2/static/css/main.d1b05096.chunk.css",
-    "main.js": "/adam001ae/testujemy2/static/js/main.ca8bd32a.chunk.js",
-    "main.js.map": "/adam001ae/testujemy2/static/js/main.ca8bd32a.chunk.js.map",
-    "runtime-main.js": "/adam001ae/testujemy2/static/js/runtime-main.972d9e2d.js",
-    "runtime-main.js.map": "/adam001ae/testujemy2/static/js/runtime-main.972d9e2d.js.map",
-    "static/js/2.edd1bec6.chunk.js": "/adam001ae/testujemy2/static/js/2.edd1bec6.chunk.js",
-    "static/js/2.edd1bec6.chunk.js.map": "/adam001ae/testujemy2/static/js/2.edd1bec6.chunk.js.map",
-    "index.html": "/adam001ae/testujemy2/index.html",
-    "precache-manifest.49c8b3a322314ec9bc4303dbb523a4d1.js": "/adam001ae/testujemy2/precache-manifest.49c8b3a322314ec9bc4303dbb523a4d1.js",
-    "service-worker.js": "/adam001ae/testujemy2/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/adam001ae/testujemy2/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.edd1bec6.chunk.js.LICENSE": "/adam001ae/testujemy2/static/js/2.edd1bec6.chunk.js.LICENSE"
+    "main.css": "https://github.com/adam001ae/testujemy2 /static/css/main.d1b05096.chunk.css",
+    "main.js": "https://github.com/adam001ae/testujemy2 /static/js/main.53569896.chunk.js",
+    "main.js.map": "https://github.com/adam001ae/testujemy2 /static/js/main.53569896.chunk.js.map",
+    "runtime-main.js": "https://github.com/adam001ae/testujemy2 /static/js/runtime-main.4090d4dc.js",
+    "runtime-main.js.map": "https://github.com/adam001ae/testujemy2 /static/js/runtime-main.4090d4dc.js.map",
+    "static/js/2.edd1bec6.chunk.js": "https://github.com/adam001ae/testujemy2 /static/js/2.edd1bec6.chunk.js",
+    "static/js/2.edd1bec6.chunk.js.map": "https://github.com/adam001ae/testujemy2 /static/js/2.edd1bec6.chunk.js.map",
+    "index.html": "https://github.com/adam001ae/testujemy2 /index.html",
+    "precache-manifest.1775c9ee5c3113359efa13dc4a4018aa.js": "https://github.com/adam001ae/testujemy2 /precache-manifest.1775c9ee5c3113359efa13dc4a4018aa.js",
+    "service-worker.js": "https://github.com/adam001ae/testujemy2 /service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "https://github.com/adam001ae/testujemy2 /static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.edd1bec6.chunk.js.LICENSE": "https://github.com/adam001ae/testujemy2 /static/js/2.edd1bec6.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.972d9e2d.js",
+    "static/js/runtime-main.4090d4dc.js",
     "static/js/2.edd1bec6.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.ca8bd32a.chunk.js"
+    "static/js/main.53569896.chunk.js"
   ]
 }
